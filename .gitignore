@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ChromaDB data directory
+chroma_db/
+!chroma_db/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
